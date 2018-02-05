@@ -77,7 +77,7 @@ object Form1: TForm1
     TabOrder = 4
   end
   object btn_GoogleTasks_FetchAuthToken: TButton
-    Left = 41
+    Left = 32
     Top = 132
     Width = 273
     Height = 49

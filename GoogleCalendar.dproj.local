@@ -2,9 +2,9 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2016/08/26 20:00:57.000.846,=C:\Users\lampa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2018/02/01 20:06:05.632,=C:\Users\lampa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2018/02/01 20:10:54.076,C:\Users\lampa\Documents\Embarcadero\Studio\Projects\OAuth2\uPrincipal.dfm=C:\Users\lampa\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2018/02/01 20:10:54.076,C:\Users\lampa\Documents\Embarcadero\Studio\Projects\OAuth2\uPrincipal.pas=C:\Users\lampa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2018/02/01 20:11:06.992,C:\Users\lampa\Documents\Embarcadero\Studio\Projects\OAuth2\GoogleCalendar.dproj=C:\Users\lampa\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/02/01 20:06:05.000.632,=C:\Users\lampa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/01 20:10:54.000.076,C:\Users\lampa\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\lampa\Documents\Embarcadero\Studio\Projects\OAuth2\uPrincipal.dfm</Transaction>
+    <Transaction>2018/02/01 20:10:54.000.076,C:\Users\lampa\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\lampa\Documents\Embarcadero\Studio\Projects\OAuth2\uPrincipal.pas</Transaction>
+    <Transaction>2018/02/01 20:11:06.000.992,C:\Users\lampa\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\lampa\Documents\Embarcadero\Studio\Projects\OAuth2\GoogleCalendar.dproj</Transaction>
   </Transactions>
 </BorlandProject>
